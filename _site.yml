@@ -4,6 +4,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Industry"
+      href: industry.html
+    - text: "Journalism"
+      href: journalism.html
   right: 
     - icon: fa-envelope fa-lg
       href: mailto:<anwar.husna@gmail.com>

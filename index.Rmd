@@ -2,6 +2,13 @@
 title: "Husna Anwar - Personal Website"
 ---
 
-This is Husna.
+Hello, my name is Husna. I'm a PhD Candidate for Electrical Engineering at University of Toronto and this is my website.
 
 <img src="files/Husna.jpeg" style="width:50%">
+
+
+## Future Faces of Physics + SPS awards
+
+* [MHC’s Society of Physics Students honored](https://www.mtholyoke.edu/media/mhcs-society-physics-students-honored)
+* [Redefining Physics: Adding Women & Minorities to the Equation](https://www.spsnational.org/awards/future-faces-physics-award/2015/mount-holyoke-college)
+
