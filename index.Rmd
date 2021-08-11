@@ -11,10 +11,3 @@ LinkedIn | GitHub
 Husna is a doctoral candidate at the Department of Electrical and Computer Engineering, University of Toronto. Husna explores new materials for optoelectronic applications such as LEDs and solar cells, primarily focusing on metal-halide perovskites. Husna uses a combination of automation and computation to accelerate tradtional experimental fabrication and characterization methods. In 2015, Husna graduated magna cum laude with High Honors in Physics from Mount Holyoke College, Massachusetts. Husna completed her undergraduate honors thesis on device architecures for organic photovoltaics. Husna then began working as a Project Engineer/Manager at [Bright Power, Inc.](https://www.brightpower.com/), an energy efficiency startup. Husna spent four years designing and overseering the construction of solar, storage and cogeneration projects for low income housing in New York City before joining the Sargent Lab as a graduate researcher in 2019.
 
 <img src="files/Husna.jpeg" style="width:50%">
-
-
-## Future Faces of Physics + SPS awards
-
-* [MHC’s Society of Physics Students honored](https://www.mtholyoke.edu/media/mhcs-society-physics-students-honored)
-* [Redefining Physics: Adding Women & Minorities to the Equation](https://www.spsnational.org/awards/future-faces-physics-award/2015/mount-holyoke-college)
-
