@@ -1,8 +1,14 @@
 ---
-title: "Husna Anwar - Personal Website"
+title: "Husna Anwar"
 ---
+PhD Candidate
+The Edward S. Rogers Sr. Department of Electrical & Computer Engineering
+University of Toronto
+Contact: husna.anwar @ mail.utoronto.ca
+LinkedIn | GitHub
 
-Hello, my name is Husna. I'm a PhD Candidate for Electrical Engineering at University of Toronto and this is my website.
+
+Husna is a doctoral candidate at the Department of Electrical and Computer Engineering, University of Toronto. Husna explores new materials for optoelectronic applications such as LEDs and solar cells, primarily focusing on metal-halide perovskites. Husna uses a combination of automation and computation to accelerate tradtional experimental fabrication and characterization methods. In 2015, Husna graduated magna cum laude with High Honors in Physics from Mount Holyoke College, Massachusetts. Husna completed her undergraduate honors thesis on device architecures for organic photovoltaics. Husna then began working as a Project Engineer/Manager at [Bright Power, Inc.](https://www.brightpower.com/), an energy efficiency startup. Husna spent four years designing and overseering the construction of solar, storage and cogeneration projects for low income housing in New York City before joining the Sargent Lab as a graduate researcher in 2019.
 
 <img src="files/Husna.jpeg" style="width:50%">
 
