@@ -17,4 +17,4 @@ navbar:
       href: https://www.linkedin.com/in/husnaanwar/
 output:
   html_document:
-    theme: darkly
+    theme: paper
