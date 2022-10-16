@@ -1,9 +1,7 @@
 
-# Research
-
 ## High-Throughput Materials Discovery for Metal Halide Perovskite Light Emitters
 
-<img src="files/qdots.png" style="width:35%;border: 3px solid #102e61; margin:50px 50px" align = 'right'>
+<img src="files/qdots.png" style="width:50%;border: 3px solid #102e61; margin:50px 50px" align = 'right'>
 
 In the past decade alone, thin-film metal-halide perovskite (MHP) solar cell power conversion efficiency (PCE) has increased from 3.8% to 25.5%. MHPs have small exciton binding energy, balanced electron, and hole mobilities and long exciton diffusion lengths. The high PCE achieved in solar cells has encouraged research into MHPs for use in LEDs and they have demonstrated high photoluminescence quantum yields (PLQY) and narrow peaks. 
 This project will use an HTE approach and ML models to understand the origins of previous low emission efficiencies and large emission linewidths to inform research towards bright narrowband emitters. Single crystal fabrication benchtop methos require ~5 days to grow a single crystal and another day to characterize them. This means that a full-time experimental (FTE) researcher can only explore a few materials and conduct 5-10 experiments on each material over the course of a week. We have been able to accelerate this to up to 5000 experiments/week across 20 materials.
@@ -14,7 +12,7 @@ d
 
 ## Machine-Learning Assisted Hole Transport Material Discovery for Quantum Dot LEDs
 
-<img src="files/tertiary.png" style="width:35%;border: 3px solid #102e61; margin:50px 50px" align = 'left'>
+<img src="files/tertiary.png" style="width:45%;border: 3px solid #102e61; margin:50px 50px" align = 'left'>
 
 Thin-film LEDs, such as quantum dot LEDs (QD LEDs), require additional transport layers to aid in charge injection and extraction from the electrodes into the active material. The typical device architecture for a thin-film LED involves a pair of electrodes, a hole and electron transfer layer (HTLs and ETLs) and a light-emitting active layer sandwiched between the two. The transport layers inject charge carriers from the electrodes into the active material where they recombine radiatively and emit light. These transport layers are typically organic transport layers tend to be chemically unstable, along with being sensitive to moisture, temperature, and other atmospheric onditions. Inorganic alternatives to HTL materials are needed to produce the next generation of stable and bright QD LEDs with high emission efficiency. 
 
